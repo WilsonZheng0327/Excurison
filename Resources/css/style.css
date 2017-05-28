@@ -16,8 +16,9 @@ h1{
 }
 #copyright{
   text-align: right;
+  color: grey;
 }
-p{
+h3{
   color: grey;
   font-size: 21px;
 }
